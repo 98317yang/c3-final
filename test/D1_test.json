@@ -1,0 +1,120 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        5,
+        2
+    ],
+    "data": [
+        [
+            [
+                "The movie starts at two o’clock, ____ let’s meet at the theater at one forty-five",
+                ""
+            ],
+            [
+                "Bob is ______ of the boys in the family. He never does any housework. His brothers at least take out the garbage sometimes.",
+                ""
+            ],
+            [
+                "Yesterday when I got home from work, my brother ______ for dinner, so he invited me to join him.",
+                ""
+            ],
+            [
+                "Buses to the airport only come once every hour, and we just missed ______. Why don’t we take a taxi? ",
+                ""
+            ],
+            [
+                "Paul misses his parents a lot. He _____ them since he came to work in Taiwan a year ago.",
+                ""
+            ]
+        ],
+        [
+            [
+                "(A) so",
+                1
+            ],
+            [
+                "(A)lazier",
+                0
+            ],
+            [
+                "(A)goes out",
+                0
+            ],
+            [
+                "(A) another",
+                0
+            ],
+            [
+                "(A) didn’t see",
+                0
+            ]
+        ],
+        [
+            [
+                "(B) or",
+                0
+            ],
+            [
+                "(B)the lazy",
+                0
+            ],
+            [
+                " (B)went out",
+                0
+            ],
+            [
+                "(B)it",
+                0
+            ],
+            [
+                "(B) doesn’t see",
+                0
+            ]
+        ],
+        [
+            [
+                "(C) if",
+                0
+            ],
+            [
+                "(C)the lazier",
+                0
+            ],
+            [
+                "(C)has gone out",
+                0
+            ],
+            [
+                "(C)one",
+                1
+            ],
+            [
+                "(C) hasn’t seen",
+                1
+            ]
+        ],
+        [
+            [
+                "(D)because",
+                0
+            ],
+            [
+                " (D)the laziest",
+                1
+            ],
+            [
+                "(D)was going out",
+                1
+            ],
+            [
+                "(D)them",
+                0
+            ],
+            [
+                "(D) won’t see",
+                0
+            ]
+        ]
+    ]
+}

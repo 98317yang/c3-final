@@ -1,0 +1,123 @@
+﻿{
+       "c2array": true,
+       "size": [
+       5,
+       5,
+       2
+       ],
+       "data": [
+       [
+       [
+       "Edward had worked as a computer engineer for ten years. This _____ helped him a lot when he started his own computer shop.",
+       ""
+       ],
+       [
+       "My mom puts the _____ on to keep her hands away from water when she washes the dishes.",
+       ""
+       ],
+       [
+       "Josh has planned to make a trip to New York and _____ some of his friends there.",
+       ""
+       ],
+       [
+       "Jill: Have you decided _____ you will celebrate your 30th birthday? Sue: Yeah, I’m going to have a big barbecue party.",
+       ""
+       ],
+       [
+       "It’s great that we can buy train tickets over the phone without going out. It _____ us a lot of time.",
+       ""
+       ]
+       ],
+       [
+       [
+       "(A) chance",
+       0
+       ],
+       [
+       "(A)gloves",
+       1
+       ],
+       [
+       "(A)visit",
+       1
+       ],
+       [
+       "(A) how",
+       1
+       ],
+       [
+       "(A)lends",
+       0
+       ]
+       ],
+       [
+       [
+       "(B) experience",
+       1
+       ],
+       [
+       "(B)jacket",
+       0
+       ],
+       [
+       " (B)visits",
+       0
+       ],
+       [
+       "(B)where",
+       0
+       ],
+       [
+       "(B)prepares",
+       0
+       ]
+       ],
+       [
+       [
+       "(C) hobby",
+       0
+       ],
+       [
+       "(C)ring",
+       0
+       ],
+       [
+       "(C)visiting",
+       0
+       ],
+       [
+       "(C)what",
+       0
+       ],
+        [
+       "(C)saves",
+       1
+       ]
+
+       ],
+       [
+       [
+       "(D)knoeledge",
+       0
+       ],
+       [
+       " (D)socks",
+       0
+       ],
+       [
+       "(D)visited",
+       0
+       ],
+       [
+       "(D)when",
+       0
+       ],
+       [
+       "(D)takes",
+       0
+       ]
+
+       ]     
+       ]
+}
+

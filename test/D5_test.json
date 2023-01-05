@@ -1,0 +1,122 @@
+﻿{
+       "c2array": true,
+       "size": [
+       5,
+       5,
+       2
+       ],
+       "data": [
+       [
+       [
+       "My wife enjoys going to the movies with her friends, but I like to watch TV at home by _____.",
+       ""
+       ],
+       [
+       "____other waiters in the restaurant have worked here longer than Clark; only Lois and Lana started working here before him",
+       ""
+       ],
+       [
+       "_____that last piece of pie? If not, can I have it? I didn’t eat much this morning.",
+       ""
+       ],
+       [
+       " There____more than twenty clubs in our school. Which one would you like to join? ",
+       ""
+       ],
+       [
+       " Ms. Liu usually gives us a lot of homework,____ she didn’t give us any today.",
+       ""
+       ]
+       ],
+       [
+       [
+       "(A) I",
+       0
+       ],
+       [
+       "(A)All",
+       0
+       ],
+       [
+       "(A) Had you eaten",
+       0
+       ],
+       [
+       "(A) has",
+       0
+       ],
+       [
+       "(A)but",
+       1
+       ]
+       ],
+       [
+       [
+       "(B) me",
+       0
+       ],
+       [
+       "(B)Most",
+       0
+       ],
+       [
+       " (B) Were you eating",
+       0
+       ],
+       [
+       "(B)have",
+       0
+       ],
+       [
+       "(B)if",
+       0
+       ]
+       ],
+       [
+       [
+       "(C) myself",
+       1
+       ],
+       [
+       "(C)Some",
+       0
+       ],
+       [
+       "(C) Do you eat",
+       0
+       ],
+       [
+       "(C) is",
+       0
+       ],
+       [
+       "(C)or",
+       0
+       ]
+
+       ],
+       [
+       [
+       "(D)mine",
+       0
+       ],
+       [
+       "(D)Few",
+       1
+       ],
+       [
+       "(D) Are you going to eat ",
+       1
+       ],
+       [
+       "(D)are",
+       1
+       ],
+       [
+       "(D)so",
+       0
+       ]
+       ]      
+       ]
+}
+

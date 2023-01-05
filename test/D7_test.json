@@ -1,0 +1,121 @@
+﻿{
+       "c2array": true,
+       "size": [
+       5,
+       5,
+       2
+       ],
+       "data": [
+       [
+       [
+       " I’ve wanted to read The Diary of a Young Girl for months,____today I finally borrowed the book from the library.",
+       ""
+       ],
+       [
+       " The beach party tonight_____the end of our summer vacation. Tomorrow weare all going back home and get ready for school.",
+       ""
+       ],
+       [
+       " I don't have any money with me because I____my wallet this morning.",
+       ""
+       ],
+       [
+       " All the excuses Nick made _______ a lot about how much he hates to do the job. ",
+       ""
+       ],
+       [
+       " Jenny’s bag is very heavy because _______ filled with toy cars.",
+       ""
+       ]
+       ],
+       [
+       [
+       "(A) and",
+       1
+       ],
+       [
+       "(A) changes ",
+       0
+       ],
+       [
+       "(A) had lost",
+       0
+       ],
+       [
+       "(A) say",
+       1
+       ],
+       [
+       "(A)it is",
+       1
+       ]
+       ],
+       [
+       [
+       "(B)since",
+       0
+       ],
+       [
+       "(B)marks",
+       1
+       ],
+       [
+       " (B) would lose",
+       0
+       ],
+       [
+       "(B)sayi",
+       0
+       ],
+       [
+       "(B)they are",
+       0
+       ]
+       ],
+       [
+       [
+       "(C) so",
+       0
+       ],
+       [
+       "(C)passes",
+       0
+       ],
+       [
+       "(C) lost",
+       1
+       ],
+       [
+       "(C) which s",
+       0
+       ],
+       [
+       "(C)there is",
+       0
+       ]
+       ],
+       [
+       [
+       "(D)until",
+       0
+       ],
+       [
+       " (D)saves",
+       0
+       ],
+       [
+       "(D) was losing ",
+       0
+       ],
+       [
+       "(D)to say",
+       0
+       ],
+       [
+       "(D)there are",
+       0
+       ]
+       ]      
+       ]
+}
+

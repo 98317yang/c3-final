@@ -1,0 +1,121 @@
+﻿{
+       "c2array": true,
+       "size": [
+       5,
+       5,
+       2
+       ],
+       "data": [
+       [
+       [
+       " We are surprised that Sally and Ray decided to get married. No one knows _______. They often fight with each other and are unhappy together. ",
+       ""
+       ],
+       [
+       " I told you this road went the wrong way, but you just wouldn't listen. Now we have to____and take another road",
+       ""
+       ],
+       [
+       " My dog Jimmy loves____with a comb. Every time I comb his hair, he will close his eyes and fall asleep. ",
+       ""
+       ],
+       [
+       " Mark studies very hard and never____classes. He goes to school even when he is sick. ",
+       ""
+       ],
+       [
+       " Ms. Johnson has been taking phone calls since she entered the office this morning. Just when she thought she could finally leave work, _____ call came in",
+       ""
+       ]
+       ],
+       [
+       [
+       "(A) why",
+       1
+       ],
+       [
+       "(A) go ahead ",
+       0
+       ],
+       [
+       "(A) had lost",
+       0
+       ],
+       [
+       "(A) loses ",
+       0
+       ],
+       [
+       "(A)another",
+       1
+       ]
+       ],
+       [
+       [
+       "(B)where",
+       0
+       ],
+       [
+       "(B) move away ",
+       0
+       ],
+       [
+       " (B) brushing",
+       0
+       ],
+       [
+       "(B)misses",
+       1
+       ],
+       [
+       "(B)each",
+       0
+       ]
+       ],
+       [
+       [
+       "(C) when",
+       0
+       ],
+       [
+       "(C) pass by ",
+       0
+       ],
+       [
+       "(C) to be brushing",
+       0
+       ],
+       [
+       "(C) changes",
+       0
+       ],
+       [
+       "(C)the next",
+       0
+       ]
+       ],
+       [
+       [
+       "(D)how",
+       0
+       ],
+       [
+       " (D)turn back",
+       1
+       ],
+       [
+       "(D) being brushed ",
+       1
+       ],
+       [
+       "(D)forgets",
+       0
+       ],
+       [
+       "(D)the other",
+       0
+       ]
+       ]      
+       ]
+}
+
